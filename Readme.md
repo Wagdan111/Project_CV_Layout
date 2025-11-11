@@ -30,18 +30,6 @@ This project was created to demonstrate front-end layout skills and to serve as 
 
 ---
 
-## 📂 Folder Structure
-
-/project-root
-│
-├── index.html
-├── /css
-│ └── style.css
-├── /images
-│ └── (project images)
-└── README.md
-
-
 ## 📬 Contact
 For inquiries or collaboration, feel free to reach out:
 
